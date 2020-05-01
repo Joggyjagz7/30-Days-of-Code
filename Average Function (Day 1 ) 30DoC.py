@@ -6,4 +6,4 @@ s = [12,11,2,6,7,10]
 average = Average(s) 
   
 
-print("Average of the array s =", round(average, 2)) 
+print("Average of the array s =", round(average)) 
